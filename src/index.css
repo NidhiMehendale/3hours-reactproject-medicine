@@ -1,0 +1,85 @@
+/* *  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    align-items: center;
+    background-color: #333;
+    font-size: 1.2rem;
+    padding: 20px;
+    
+}
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+nav ul {
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    list-style: none;
+
+}
+nav li {
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    cursor: pointer;
+}
+
+#hero {
+    background-image: url("https://via.placeholder.com/1000x400");
+    background-size: cover;
+    margin-bottom: 20px;
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#hero h1 {
+    font-size: 2rem;
+    padding-bottom: 20px;
+
+}
+#hero p {
+    line-height: 1.5;
+}
+button {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+#about {
+    margin-top: 40px;
+}
+#about h2{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+p {
+    line-height: 1.5;
+    margin-top: 20px;
+
+} */

@@ -1,0 +1,10 @@
+.display {
+    font-weight: bold;
+    word-spacing: 30px;
+    justify-content: space-between;
+    text-align: space-between;
+  }
+  
+  .button {
+    margin-left: 5rem;
+  }
